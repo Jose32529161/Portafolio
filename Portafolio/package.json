@@ -1,8 +1,8 @@
 {
-  "name": "PORTAFOLIO",
+  "name": "Portafolio ",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "PORTAFOLIO.js",
   "scripts": {
     "start": "nodemon app.js"
   },
